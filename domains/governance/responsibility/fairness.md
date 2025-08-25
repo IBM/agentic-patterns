@@ -1,7 +1,7 @@
 ---
 title: Understanding Fairness for AI Application
 author: Mansura Habiba
-date: today
+date: 25/08/2025
 ---
 
 
